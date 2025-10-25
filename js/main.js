@@ -8,11 +8,11 @@ function setWord() {
 }
 
   const words = [
-    'red',
-    'blue',
-    'pink',
+    'kanata',
+    'syunsuke',
+    'syunta',
     'kensai',
-    'yasumura',
+    'izuharasensei',
     'kiyotaka',
   ];
   let word
